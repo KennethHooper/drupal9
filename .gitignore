@@ -32,6 +32,8 @@
 /web/sites/development.services.yml
 /web/themes/README.txt
 /web/themes/contrib
+/web/libraries
+/web/sites
 /vendor
 /web/.csslintrc
 .editorconfig

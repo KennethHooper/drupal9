@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "60088d1f7afffcf14eb6ebe053c2cf5f",
+    "content-hash": "9bba12d1b7b3e6e5ad6f5f1d28432822",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -8008,16 +8008,6 @@
                 "source": "https://github.com/geocoder-php/php-common/tree/4.4.0"
             },
             "time": "2020-12-21T09:30:01+00:00"
-        },
-        {
-            "name": "woothemes/flexslider",
-            "version": "2.7.2",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/woothemes/FlexSlider.git",
-                "reference": "2.7.2"
-            },
-            "type": "drupal-library"
         }
     ],
     "packages-dev": [],
