@@ -57,7 +57,8 @@
         "drupal/token": "^1.9",
         "drupal/twig_vardumper": "^3.0",
         "drupal/webform": "^6.0",
-        "drupal/webform_mailchimp": "^5.9"
+        "drupal/webform_mailchimp": "^5.9",
+        "woothemes/flexslider": "^2.7"
     },
     "conflict": {
         "drupal/drupal": "*"
